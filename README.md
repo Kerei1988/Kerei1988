@@ -5,5 +5,5 @@
 <a title="E-mail" href="rustam_itchanov@mail.ru" target="_blank"><img src="image/Mail.png" alt="E-mail" /></a>
 <a title="WhatsApp" href="https://wa/me/79994706958" target="_blank"><img src="image/whatsapp_logo.png" alt="WhatsApp" /></a>
 </div>
-<h2 align='center'>О себе</h2>
+<h2 align='lefth'>О себе</h2>
 <p>Доброго времени суток! Являюсь дипломированным Python - Разработчиком. Активно погружаюсь в IT сферу. С каждым днем совершенствую свои навыки в разработке, осваиваю все больший стек технологий. Я амбициозный и ответственный человек, и моя ЦЕЛЬ, стать профессионалом в данной сфере, мотивирует меня усердно работать и развиваться. </p>
