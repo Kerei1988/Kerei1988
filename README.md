@@ -12,7 +12,9 @@
 <dl>
   <dt>Университет Urban</dt>
   <dd>Python - разработчик</dd>
-  <dd> <a padding-left= 10px padding-top= 5px href="https://github.com/Kerei1988/Diplom" >Диплом<a/></dd>
+  <dd> <ul>
+    <li><a padding-left= 10px padding-top= 5px href="https://github.com/Kerei1988/Diplom" >Диплом<a/></li>
+  </ul></dd>
 </dl>
 <h3>HardSkills</h3>
 <ul>
