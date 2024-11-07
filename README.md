@@ -12,6 +12,7 @@
 <dl>
   <dt>Университет Urban</dt>
   <dd>Python - разработчик</dd>
+  <dd>Диплом <a href=""><a/></dd>
 </dl>
 <h3>HardSkills</h3>
 <ul>
