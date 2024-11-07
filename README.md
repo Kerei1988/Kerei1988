@@ -13,7 +13,12 @@
   <dt>Университет Urban</dt>
   <dd>Python - разработчик</dd>
 </dl>
-
-<ul><h3>HardSkills</h3>
+<h3>HardSkills</h3>
+<ul>
   <li>Django Framework</li>
+  <li>FastApi</li>
+  <li>SQL</li>
+  <Li>Анализ данных</Li>
+  <li>ООП</li>
+  <li>Асинхронное программирование</li>
 </ul>
