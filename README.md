@@ -13,3 +13,7 @@
   <dt>Университет Urban</dt>
   <dd>Python - разработчик</dd>
 </dl>
+
+<ul><h3>HardSkills</h3>
+  <li>Django Framework</li>
+</ul>
