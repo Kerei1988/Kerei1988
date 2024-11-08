@@ -32,5 +32,5 @@
 <li>Критическое мышление</li>
 <li>Обучаемость</li>
 <div>
-  <img src="image/dask_icon.png">
+  <img src="image/dask_icon_72.png">
     </div>
