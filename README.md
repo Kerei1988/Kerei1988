@@ -31,3 +31,6 @@
 <li>Работа в команде</li>
 <li>Критическое мышление</li>
 <li>Обучаемость</li>
+<div>
+  <img src="image/dask_icon.png">
+    </div>
