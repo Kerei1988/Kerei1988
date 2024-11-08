@@ -33,4 +33,7 @@
 <li>Обучаемость</li>
 <div>
   <img src="image/dask_icon_72.png">
+  <img src="image/apache_spark_icon_72.png">
+  <img src="image/pandas_icon_72.png">
+  <img src="image/sqlite_icon_72.png">
     </div>
